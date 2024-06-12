@@ -33,5 +33,3 @@ public class Exam {
         this.answer = answer;
     }
 }
-
-
