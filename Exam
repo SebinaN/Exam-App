@@ -1,0 +1,11 @@
+public class Exam {
+    private String question;
+    private String[] options;
+    private String answer;
+
+    public Exam(String question, String[] options, String answer) {
+        this.question = question;
+        this.options = options;
+        this.answer = answer;
+    }
+}
