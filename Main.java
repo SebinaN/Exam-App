@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Quiz service = new QuestionService();
+        Quiz service = new ExamService();
         service.quiz();
         
     }
